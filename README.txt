@@ -88,10 +88,10 @@ Model 3:
 Training Accuracy: 91.62
 Validation Accuracy: 79.58
 
-Final Model after rectifing class imbalance: Because to augmentation and class imbalance management, training and validation accuracy has enhanced dramatically. The model does not overfit. This model can serve as the final model.
+Final Model after rectifing class imbalance: Because to augmentation and class imbalance management, training and validation accuracy has enhanced dramatically. The model does not overfit and is performing resonable well. This model can serve as the final model.
 
-Training Accuracy: 91.
-Validation Accuracy: 89.96
+Training Accuracy: 89.68%
+Validation Accuracy: 84.46%
 
 ## Acknowledgements
 
